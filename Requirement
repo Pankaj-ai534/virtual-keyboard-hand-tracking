@@ -1,0 +1,6 @@
+mediapipe>=0.10.30 
+opencv-python
+numpy
+pynput
+Download the hand model and put it next to your script:
+https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
